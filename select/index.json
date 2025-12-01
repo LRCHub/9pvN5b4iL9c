@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ボクの背中には羽根がある",
+  "base_artist": "KinKi Kids",
+  "createdAt": "2025-12-01T13:15:53.003429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボクの背中には羽根がある",
+      "artist": "KinKi Kids",
+      "has_synced": false,
+      "path": "select/01_ボクの背中には羽根がある_KinKi_Kids.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "6.ボクの背中には羽根がある",
+      "artist": "Kinki Kids",
+      "has_synced": true,
+      "path": "select/02_6.ボクの背中には羽根がある_Kinki_Kids.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボクの背中には羽根がある",
+      "artist": "Kinki kids",
+      "has_synced": false,
+      "path": "select/pl_01_ボクの背中には羽根がある_Kinki_kids.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ボクの背中には羽根がある",
+      "artist": "Kinki kids",
+      "has_synced": false,
+      "path": "select/pl_02_ボクの背中には羽根がある_Kinki_kids.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ボクの背中には羽根がある (E Edit)",
+      "artist": "Kinki kids",
+      "has_synced": false,
+      "path": "select/pl_03_ボクの背中には羽根がある_(E_Edit)_Kinki_kids.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ボクの背中には羽根がある",
+      "artist": "Kinki kids",
+      "has_synced": false,
+      "path": "select/pl_04_ボクの背中には羽根がある_Kinki_kids.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ボクの背中には羽根がある",
+      "artist": "Kinki kids",
+      "has_synced": false,
+      "path": "select/pl_05_ボクの背中には羽根がある_Kinki_kids.txt"
+    }
+  ]
+}
